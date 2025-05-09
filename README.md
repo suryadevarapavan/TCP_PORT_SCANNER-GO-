@@ -16,5 +16,4 @@ This is a simple TCP port scanner written in Go. It prompts the user for a domai
 2. It attempts to establish a TCP connection to each port from 1 to 1024.
 3. If the connection is successful, the port is considered open and is printed to the console.
 
-## 🧪 Example
 
